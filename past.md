@@ -47,6 +47,10 @@ Bethe-Salpeter equation for classical gravitational bound states
 
 Strong field amplitudes and classical physics
 
+### 17 Nov 2022, Pavel Kovtun
+
+Relativistic dissipation: from hydrodynamics to effective field theory
+
 ### 27 Oct 2022, Yao Ma
 
 A geometric approach to the method of regions
@@ -62,6 +66,10 @@ Classical radiation at one loop
 ### 29 Sep 2022, Andrea Pelloni
 
 Computing DIS coefficient functions at 4-loop
+
+### 22 Sep 2022, Eduardo Casali
+
+Celestial holography and twistor strings
 
 ## 2021-2022
 
