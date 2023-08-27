@@ -20,4 +20,3 @@ Recent research highlights include precise computations for LHC processes with a
 Links to my publications: [INSPIRE](https://inspirehep.net/authors/1310565?ui-citation-summary=true) | [arXiv](https://arxiv.org/a/zeng_m_1)
 
 Links: [Higgs Centre Amplitudes Meetings](/amps/)
-
