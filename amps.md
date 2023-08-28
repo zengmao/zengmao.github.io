@@ -13,24 +13,30 @@ This is a weekly series of informal seminars at the [Higgs Centre for Theoretica
   method="POST"
 >  
   Monday 10 am - 11 am<br>
-  <input type="radio" name="Mon 10am" value="Yes">Yes<br>
-  <input type="radio" name="Mon 10am" value="Maybe">Maybe<br>
+  <input type="radio" name="Mon 10am" value="Yes">Yes
+  <input type="radio" name="Mon 10am" value="Maybe">Maybe
   <input type="radio" name="Mon 10am" value="No" checked>No<br><br>
   
   Monday 11 am - 12 pm<br>
-  <input type="radio" name="Mon 11am" value="Yes">Yes<br>
-  <input type="radio" name="Mon 11am" value="Maybe">Maybe<br>
+  <input type="radio" name="Mon 11am" value="Yes">Yes
+  <input type="radio" name="Mon 11am" value="Maybe">Maybe
   <input type="radio" name="Mon 11am" value="No" checked>No<br><br>
   
   Thursday 10 am - 11 am<br>
-  <input type="radio" name="Thu 10am" value="Yes">Yes<br>
-  <input type="radio" name="Thu 10am" value="Maybe">Maybe<br>
+  <input type="radio" name="Thu 10am" value="Yes">Yes
+  <input type="radio" name="Thu 10am" value="Maybe">Maybe
   <input type="radio" name="Thu 10am" value="No" checked>No<br><br>
   
   Thursday 11 am - 12 pm<br>
-  <input type="radio" name="Thu 11am" value="Yes">Yes<br>
-  <input type="radio" name="Thu 11am" value="Maybe">Maybe<br>
+  <input type="radio" name="Thu 11am" value="Yes">Yes
+  <input type="radio" name="Thu 11am" value="Maybe">Maybe
   <input type="radio" name="Thu 11am" value="No" checked>No<br><br>
+  
+  Thursday 2 pm - 3 pm<br>
+  <input type="radio" name="Thu 2pm" value="Yes">Yes
+  <input type="radio" name="Thu 2pm" value="Maybe">Maybe
+  <input type="radio" name="Thu 2pm" value="No" checked>No<br><br>
+  
   <label>
     Your name:
     <input type="name" name="name" required>
