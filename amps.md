@@ -6,6 +6,41 @@ title = "Higgs Centre Amplitudes Meetings"
 
 This is a weekly series of informal seminars at the [Higgs Centre for Theoretical Physics, Edinburgh University](https://higgs.ph.ed.ac.uk/), focusing on scattering amplitudes in quantum field theory and related topics, encouraging open discussions.
 
+# Poll: weekly meeting time for Autumn 2023
+~~~
+<form
+  action="https://formspree.io/f/mqkvqobd"
+  method="POST"
+>  
+  Monday 10 am - 11 am<br>
+  <input type="radio" name="Mon 10am" value="Yes">Yes<br>
+  <input type="radio" name="Mon 10am" value="Maybe">Maybe<br>
+  <input type="radio" name="Mon 10am" value="No" checked>No<br><br>
+  
+  Monday 11 am - 12 pm<br>
+  <input type="radio" name="Mon 11am" value="Yes">Yes<br>
+  <input type="radio" name="Mon 11am" value="Maybe">Maybe<br>
+  <input type="radio" name="Mon 11am" value="No" checked>No<br><br>
+  
+  Thursday 10 am - 11 am<br>
+  <input type="radio" name="Thu 10am" value="Yes">Yes<br>
+  <input type="radio" name="Thu 10am" value="Maybe">Maybe<br>
+  <input type="radio" name="Thu 10am" value="No" checked>No<br><br>
+  
+  Thursday 11 am - 12 pm<br>
+  <input type="radio" name="Thu 11am" value="Yes">Yes<br>
+  <input type="radio" name="Thu 11am" value="Maybe">Maybe<br>
+  <input type="radio" name="Thu 11am" value="No" checked>No<br><br>
+  <label>
+    Your name:
+    <input type="name" name="name" required>
+  </label>
+  <button type="submit">Send Response</button></br>
+</form>
+~~~
+
+[Back to top](/amps/)
+
 # Past Meetings
 
 - [2022-2023](#2022-2023)
