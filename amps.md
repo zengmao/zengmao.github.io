@@ -22,6 +22,11 @@ This is a weekly series of informal seminars at the [Higgs Centre for Theoretica
   <input type="radio" name="Mon 11am" value="Maybe">Maybe
   <input type="radio" name="Mon 11am" value="No" checked>No<br><br>
   
+  Monday 1 pm - 2 pm<br>
+  <input type="radio" name="Mon 1pm" value="Yes">Yes
+  <input type="radio" name="Mon 1pm" value="Maybe">Maybe
+  <input type="radio" name="Mon 1pm" value="No" checked>No<br><br>
+  
   Thursday 10 am - 11 am<br>
   <input type="radio" name="Thu 10am" value="Yes">Yes
   <input type="radio" name="Thu 10am" value="Maybe">Maybe
