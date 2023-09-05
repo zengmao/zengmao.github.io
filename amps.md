@@ -6,51 +6,9 @@ title = "Higgs Centre Amplitudes Meetings"
 
 This is a weekly series of informal seminars at the [Higgs Centre for Theoretical Physics, Edinburgh University](https://higgs.ph.ed.ac.uk/), focusing on scattering amplitudes in quantum field theory and related topics, encouraging open discussions.
 
-# Poll: weekly meeting time for Autumn 2023
-~~~
-<form
-  action="https://formspree.io/f/mqkvqobd"
-  method="POST"
->  
-  Monday 10 am - 11 am<br>
-  <input type="radio" name="Mon 10am" value="Yes">Yes
-  <input type="radio" name="Mon 10am" value="Maybe">Maybe
-  <input type="radio" name="Mon 10am" value="No" checked>No<br><br>
-  
-  Monday 11 am - 12 pm<br>
-  <input type="radio" name="Mon 11am" value="Yes">Yes
-  <input type="radio" name="Mon 11am" value="Maybe">Maybe
-  <input type="radio" name="Mon 11am" value="No" checked>No<br><br>
-  
-  Monday 1 pm - 2 pm<br>
-  <input type="radio" name="Mon 1pm" value="Yes">Yes
-  <input type="radio" name="Mon 1pm" value="Maybe">Maybe
-  <input type="radio" name="Mon 1pm" value="No" checked>No<br><br>
-  
-  Thursday 10 am - 11 am<br>
-  <input type="radio" name="Thu 10am" value="Yes">Yes
-  <input type="radio" name="Thu 10am" value="Maybe">Maybe
-  <input type="radio" name="Thu 10am" value="No" checked>No<br><br>
-  
-  Thursday 11 am - 12 pm<br>
-  <input type="radio" name="Thu 11am" value="Yes">Yes
-  <input type="radio" name="Thu 11am" value="Maybe">Maybe
-  <input type="radio" name="Thu 11am" value="No" checked>No<br><br>
-  
-  Thursday 2 pm - 3 pm<br>
-  <input type="radio" name="Thu 2pm" value="Yes">Yes
-  <input type="radio" name="Thu 2pm" value="Maybe">Maybe
-  <input type="radio" name="Thu 2pm" value="No" checked>No<br><br>
-  
-  <label>
-    Your name:
-    <input type="name" name="name" required>
-  </label>
-  <button type="submit">Send Response</button></br>
-</form>
-~~~
+# Meetings for the current semester
 
-[Back to top](/amps/)
+We will meet at 11 am on Thursdays for Autumn 2023. A talk schedule will appear as speaker are invited.
 
 # Past Meetings
 
@@ -193,3 +151,5 @@ Yang-Mills observables: from KMOC to eikonal through EFT
 
 Local Unitarity
 
+# Poll: weekly meeting time for Autumn 2023
+**The poll has already closed.**
