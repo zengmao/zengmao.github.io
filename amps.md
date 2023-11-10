@@ -8,7 +8,31 @@ This is a weekly series of informal seminars at the [Higgs Centre for Theoretica
 
 # Meetings for the current semester
 
-We will meet at 11 am on Thursdays for Autumn 2023. A talk schedule will appear as speaker are invited.
+We meet at 11 am on Thursdays for Autumn 2023.
+
+### 07 Dec: Sumer Jaily
+
+TBA
+
+### 30 Nov: Sid Smith
+
+TBA
+
+### 23 Nov: Kanghoon Lee
+
+TBA
+
+### 09 Nov: Ratan Sarkar
+
+Isolation of 'Regions' with ASPIRE
+
+### 26 Oct: Massimiliano Riva
+
+Balance Laws in Gravitational Two-Body Scattering
+
+### 19 Oct: Sebastian Pogel
+
+Geometry in Feynman Integrals
 
 # Past Meetings
 

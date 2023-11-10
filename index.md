@@ -19,4 +19,8 @@ Recent research highlights include precise computations for LHC processes with a
 
 Links to my publications: [INSPIRE](https://inspirehep.net/authors/1310565?ui-citation-summary=true) | [arXiv](https://arxiv.org/a/zeng_m_1)
 
+### Seminars and Conferences
+
 I'm co-organizing [Higgs Centre Amplitudes Meetings](/amps/).
+
+I'm co-organizing the 2024 MIAPbP workshop, [EFT and Multi-loop Methods for Advancing Precision in Collider and Gravitational Wave Physics](https://www.munich-iapbp.de/eft-multi-loop-methods).
