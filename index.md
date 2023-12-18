@@ -23,4 +23,6 @@ Links to my publications: [INSPIRE](https://inspirehep.net/authors/1310565?ui-ci
 
 I'm co-organizing [Higgs Centre Amplitudes Meetings](/amps/).
 
+I'm co-organizing the [Higgs Centre Workshop on Gravitational Self-Force and Scattering Amplitudes](https://higgs.ph.ed.ac.uk/workshops/gravitational-self-force-and-scattering-amplitudes/)
+
 I'm co-organizing the 2024 MIAPbP workshop, [EFT and Multi-loop Methods for Advancing Precision in Collider and Gravitational Wave Physics](https://www.munich-iapbp.de/eft-multi-loop-methods).
