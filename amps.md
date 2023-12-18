@@ -6,21 +6,65 @@ title = "Higgs Centre Amplitudes Meetings"
 
 This is a weekly series of informal seminars at the [Higgs Centre for Theoretical Physics, Edinburgh University](https://higgs.ph.ed.ac.uk/), focusing on scattering amplitudes in quantum field theory and related topics, encouraging open discussions.
 
-# Meetings for the current semester
+# Poll: weekly meeting time for Spring 2024
+~~~
+<form
+  action="https://formspree.io/f/mqkvqobd"
+  method="POST"
+>  
+  Tuesday 10 am - 11 am<br>
+  <input type="radio" name="Mon 10am" value="Yes">Yes
+  <input type="radio" name="Mon 10am" value="Maybe">Maybe
+  <input type="radio" name="Mon 10am" value="No" checked>No<br><br>
+  
+  Tuesday 11 am - 12 pm<br>
+  <input type="radio" name="Mon 11am" value="Yes">Yes
+  <input type="radio" name="Mon 11am" value="Maybe">Maybe
+  <input type="radio" name="Mon 11am" value="No" checked>No<br><br>
+  
+  Tuesday 1 pm - 2 pm<br>
+  <input type="radio" name="Mon 1pm" value="Yes">Yes
+  <input type="radio" name="Mon 1pm" value="Maybe">Maybe
+  <input type="radio" name="Mon 1pm" value="No" checked>No<br><br>
+  
+  Thursday 10 am - 11 am<br>
+  <input type="radio" name="Thu 10am" value="Yes">Yes
+  <input type="radio" name="Thu 10am" value="Maybe">Maybe
+  <input type="radio" name="Thu 10am" value="No" checked>No<br><br>
+  
+  Thursday 11 am - 12 pm<br>
+  <input type="radio" name="Thu 11am" value="Yes">Yes
+  <input type="radio" name="Thu 11am" value="Maybe">Maybe
+  <input type="radio" name="Thu 11am" value="No" checked>No<br><br>
+  
+  Thursday 2 pm - 3 pm<br>
+  <input type="radio" name="Thu 2pm" value="Yes">Yes
+  <input type="radio" name="Thu 2pm" value="Maybe">Maybe
+  <input type="radio" name="Thu 2pm" value="No" checked>No<br><br>
+  
+  <label>
+    Your name:
+    <input type="name" name="name" required>
+  </label>
+  <button type="submit">Send Response</button></br>
+</form>
+~~~
 
-We meet at 11 am on Thursdays for Autumn 2023.
+# Past Meetings
 
-### 07 Dec: Sumer Jaily
+- [Autumn 2023](#Autumn 2023)
+- [2022-2023](#2022-2023)
+- [2021-2022](#2021-2022)
 
-TBA
+# Autumn 2023
 
-### 30 Nov: Sid Smith
+### 07 Dec: Giuseppe de Laurentis
 
-TBA
+Non-Planar Two-Loop Amplitudes for Five-Parton Scattering
 
 ### 23 Nov: Kanghoon Lee
 
-TBA
+Binary black holes and quantum off-shell recursions
 
 ### 09 Nov: Ratan Sarkar
 
@@ -33,11 +77,6 @@ Balance Laws in Gravitational Two-Body Scattering
 ### 19 Oct: Sebastian Pogel
 
 Geometry in Feynman Integrals
-
-# Past Meetings
-
-- [2022-2023](#2022-2023)
-- [2021-2022](#2021-2022)
 
 ## 2022-2023
 
@@ -174,6 +213,3 @@ Yang-Mills observables: from KMOC to eikonal through EFT
 ### 30 Sep 2021 Zeno Capatti
 
 Local Unitarity
-
-# Poll: weekly meeting time for Autumn 2023
-**The poll has already closed.**
