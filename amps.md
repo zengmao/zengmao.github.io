@@ -6,7 +6,7 @@ title = "Higgs Centre Amplitudes Meetings"
 
 This is a weekly series of informal seminars at the [Higgs Centre for Theoretical Physics, Edinburgh University](https://higgs.ph.ed.ac.uk/), focusing on scattering amplitudes in quantum field theory and related topics, encouraging open discussions.
 
-# Poll: weekly meeting time for Spring 2024
+<!-- # Poll: weekly meeting time for Spring 2024
 ~~~
 <form
   action="https://formspree.io/f/mqkvqobd"
@@ -48,7 +48,7 @@ This is a weekly series of informal seminars at the [Higgs Centre for Theoretica
   </label>
   <button type="submit">Send Response</button></br>
 </form>
-~~~
+~~~ -->
 
 # Past Meetings
 
