@@ -1,9 +1,8 @@
 +++
 title = "Mao Zeng, University of Edinburgh"
 +++
-<!-- @def tags = ["syntax", "code"] -->
 
-# Mao Zeng's Home Page
+# Mao Zeng - Theoretical Physics, University of Edinburgh
 
 @@img-tiny
 ![Portrait](/assets/portrait.jpg)
@@ -17,7 +16,7 @@ My research uses quantum field theory to make precise predictions for fundamenta
 
 My research brings together a wide array of theoretical developments in high energy physics, including modern methods for scattering amplitudes, state-of-the-art loop integration techniques, and effective field theories.
 
-[See Full CV](/CV/)
+Full CV: [PDF](/CV.pdf) | [HTML](/CV/)
 
 Links to my publications: [INSPIRE](https://inspirehep.net/authors/1310565?ui-citation-summary=true) | [arXiv](https://arxiv.org/a/zeng_m_1)
 
