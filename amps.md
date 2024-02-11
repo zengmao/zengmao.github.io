@@ -6,39 +6,13 @@ title = "Higgs Centre Amplitudes Meetings"
 
 This is a weekly series of informal seminars at the [Higgs Centre for Theoretical Physics, Edinburgh University](https://higgs.ph.ed.ac.uk/), focusing on scattering amplitudes in quantum field theory and related topics, encouraging open discussions.
 
-# Poll: weekly meeting time for Spring 2024
-~~~
-<form
-  action="https://formspree.io/f/mleqeaob"
-  method="POST"
->  
-  Tuesday 10 am - 11 am<br>
-  <input type="radio" name="Tue 10am" value="Yes">Yes
-  <input type="radio" name="Tue 10am" value="Maybe">Maybe
-  <input type="radio" name="Tue 10am" value="No" checked>No<br><br>
-  
-  Tuesday 11 am - 12 pm<br>
-  <input type="radio" name="Tue 11am" value="Yes">Yes
-  <input type="radio" name="Tue 11am" value="Maybe">Maybe
-  <input type="radio" name="Tue 11am" value="No" checked>No<br><br>
-  
-  Friday 10 am - 11 am<br>
-  <input type="radio" name="Fri 10am" value="Yes">Yes
-  <input type="radio" name="Fri 10am" value="Maybe">Maybe
-  <input type="radio" name="Fri 10am" value="No" checked>No<br><br>
-  
-  Friday 11 am - 12 pm<br>
-  <input type="radio" name="Fri 11am" value="Yes">Yes
-  <input type="radio" name="Fri 11am" value="Maybe">Maybe
-  <input type="radio" name="Fri 11am" value="No" checked>No<br><br>
-  
-  <label>
-    Your name:
-    <input type="name" name="name" required>
-  </label>
-  <button type="submit">Send Response</button></br>
-</form>
-~~~
+# Spring 2024
+
+### 13 Feb: Carlo Heissenberg
+An eikonal-inspired approach to the one-loop gravitational waveform
+
+### 30 Jan: Sid Smith
+Fourier Calculus from Intersection Theory
 
 # Past Meetings
 
