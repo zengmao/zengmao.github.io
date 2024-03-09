@@ -8,6 +8,24 @@ This is a weekly series of informal seminars at the [Higgs Centre for Theoretica
 
 # Spring 2024
 
+### 21 May: Mrigankamauli Chakraborty
+TBA
+
+### 14 May: Giulio Crisanti
+TBA
+
+### 07 May: Vasily Sotnikov
+TBA
+
+### 30 Apr: Riccardo Gonzo
+TBA
+
+### 23 Apr: Paolo Benincasa
+TBA
+
+### 02 Apr: Jiajie Mei
+TBA
+
 ### 13 Feb: Carlo Heissenberg
 An eikonal-inspired approach to the one-loop gravitational waveform
 
