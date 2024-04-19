@@ -20,11 +20,11 @@ TBA
 ### 30 Apr: Riccardo Gonzo
 TBA
 
-### 23 Apr: Paolo Benincasa
+### 23 Apr: Bakul Agrawal
 TBA
 
 ### 02 Apr: Jiajie Mei
-TBA
+From on-shell Amplitudes to Cosmological Correlators
 
 ### 13 Feb: Carlo Heissenberg
 An eikonal-inspired approach to the one-loop gravitational waveform
