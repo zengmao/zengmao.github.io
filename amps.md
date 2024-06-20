@@ -8,20 +8,17 @@ This is a weekly series of informal seminars at the [Higgs Centre for Theoretica
 
 # Spring 2024
 
-### 21 May: Mrigankamauli Chakraborty
-TBA
-
 ### 14 May: Giulio Crisanti
-TBA
+Recent advancements and hidden structures in intersection numbers for Feynman Integrals
 
 ### 07 May: Vasily Sotnikov
-TBA
+Pentagon Functions for Five-Point One-Mass Scattering in QCD
 
 ### 30 Apr: Riccardo Gonzo
-TBA
+Scattering and bound observables for spinning particles in Kerr spacetime
 
-### 23 Apr: Bakul Agrawal
-TBA
+### 16 Apr: Zeno Capatti
+Contour-deforming collider cross-sections
 
 ### 02 Apr: Jiajie Mei
 From on-shell Amplitudes to Cosmological Correlators
