@@ -8,6 +8,12 @@ This is a weekly series of informal seminars at the [Higgs Centre for Theoretica
 
 # Spring 2024
 
+### 30 Jul: Kai Yan, Yang Zhang
+(Remote) TBA
+
+### 23 Jul: Luke Lippsteu
+Genealogical constraints on Feynman integrals, and infrared finite scattering amplitudes
+
 ### 14 May: Giulio Crisanti
 Recent advancements and hidden structures in intersection numbers for Feynman Integrals
 
