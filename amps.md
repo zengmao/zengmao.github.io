@@ -6,10 +6,78 @@ title = "Higgs Centre Amplitudes Meetings"
 
 This is a weekly series of informal seminars at the [Higgs Centre for Theoretical Physics, Edinburgh University](https://higgs.ph.ed.ac.uk/), focusing on scattering amplitudes in quantum field theory and related topics, encouraging open discussions.
 
-# Spring 2024
+# Poll: weekly meeting time for Autumn 2024
+
+~~~
+<form
+  action="https://formspree.io/f/mblryqwb"
+  method="POST"
+>  
+  Monday 10 am - 11 am<br>
+  <input type="radio" name="Mon 10am" value="Yes">Yes
+  <input type="radio" name="Mon 10am" value="Maybe">Maybe
+  <input type="radio" name="Mon 10am" value="No" checked>No<br><br>
+  
+  Monday 11 am - 12 pm<br>
+  <input type="radio" name="Mon 11am" value="Yes">Yes
+  <input type="radio" name="Mon 11am" value="Maybe">Maybe
+  <input type="radio" name="Mon 11am" value="No" checked>No<br><br>
+  
+  Wednesday 10 am - 11 am<br>
+  <input type="radio" name="Wed 10am" value="Yes">Yes
+  <input type="radio" name="Wed 10am" value="Maybe">Maybe
+  <input type="radio" name="Wed 10am" value="No" checked>No<br><br>
+  
+  Wednesday 11 am - 12 pm<br>
+  <input type="radio" name="Wed 11am" value="Yes">Yes
+  <input type="radio" name="Wed 11am" value="Maybe">Maybe
+  <input type="radio" name="Wed 11am" value="No" checked>No<br><br>
+  
+  Thursday 10 am - 11 am<br>
+  <input type="radio" name="Thu 10am" value="Yes">Yes
+  <input type="radio" name="Thu 10am" value="Maybe">Maybe
+  <input type="radio" name="Thu 10am" value="No" checked>No<br><br>
+  
+  Thursday 11 am - 12 pm<br>
+  <input type="radio" name="Thu 11am" value="Yes">Yes
+  <input type="radio" name="Thu 11am" value="Maybe">Maybe
+  <input type="radio" name="Thu 11am" value="No" checked>No<br><br>
+  
+  Friday 10 am - 11 am<br>
+  <input type="radio" name="Fri 10am" value="Yes">Yes
+  <input type="radio" name="Fri 10am" value="Maybe">Maybe
+  <input type="radio" name="Fri 10am" value="No" checked>No<br><br>
+  
+  Friday 11 am - 12 pm<br>
+  <input type="radio" name="Fri 11am" value="Yes">Yes
+  <input type="radio" name="Fri 11am" value="Maybe">Maybe
+  <input type="radio" name="Fri 11am" value="No" checked>No<br><br>
+  
+  <label>
+    Your name:
+    <input type="name" name="name" required>
+  </label>
+  <button type="submit">Send Response</button></br>
+</form>
+~~~
+
+
+
+# Past Meetings
+- [Spring 2024](#spring_2024)
+- [2022-2023](#2022-2023)
+- [2021-2022](#2021-2022)
+
+## Spring 2024
+
+### 09 Aug: Zehao Zhu
+Calculation of the soft anomalous dimensions with time-like and light-like Wilson lines
+
+### 06 Aug: Yuyu Mo
+Two ways of building the BFKL ladder
 
 ### 30 Jul: Kai Yan, Yang Zhang
-(Remote) TBA
+(Remote) Two-Loop Spacelike Splitting Amplitude for N=4 Super-Yang-Mills Theory
 
 ### 23 Jul: Luke Lippsteu
 Genealogical constraints on Feynman integrals, and infrared finite scattering amplitudes
@@ -35,13 +103,7 @@ An eikonal-inspired approach to the one-loop gravitational waveform
 ### 30 Jan: Sid Smith
 Fourier Calculus from Intersection Theory
 
-# Past Meetings
-
-- [Autumn 2023](#Autumn 2023)
-- [2022-2023](#2022-2023)
-- [2021-2022](#2021-2022)
-
-# Autumn 2023
+## 2022-2023
 
 ### 07 Dec: Giuseppe de Laurentis
 
@@ -62,8 +124,6 @@ Balance Laws in Gravitational Two-Body Scattering
 ### 19 Oct: Sebastian Pogel
 
 Geometry in Feynman Integrals
-
-## 2022-2023
 
 ### 04 Aug 2023: Canxin Shi
 
