@@ -6,62 +6,13 @@ title = "Higgs Centre Amplitudes Meetings"
 
 This is a weekly series of informal seminars at the [Higgs Centre for Theoretical Physics, Edinburgh University](https://higgs.ph.ed.ac.uk/), focusing on scattering amplitudes in quantum field theory and related topics, encouraging open discussions.
 
-# Poll: weekly meeting time for Autumn 2024
+## Autumn 2024
 
-~~~
-<form
-  action="https://formspree.io/f/mblryqwb"
-  method="POST"
->  
-  Monday 10 am - 11 am<br>
-  <input type="radio" name="Mon 10am" value="Yes">Yes
-  <input type="radio" name="Mon 10am" value="Maybe">Maybe
-  <input type="radio" name="Mon 10am" value="No" checked>No<br><br>
-  
-  Monday 11 am - 12 pm<br>
-  <input type="radio" name="Mon 11am" value="Yes">Yes
-  <input type="radio" name="Mon 11am" value="Maybe">Maybe
-  <input type="radio" name="Mon 11am" value="No" checked>No<br><br>
-  
-  Wednesday 10 am - 11 am<br>
-  <input type="radio" name="Wed 10am" value="Yes">Yes
-  <input type="radio" name="Wed 10am" value="Maybe">Maybe
-  <input type="radio" name="Wed 10am" value="No" checked>No<br><br>
-  
-  Wednesday 11 am - 12 pm<br>
-  <input type="radio" name="Wed 11am" value="Yes">Yes
-  <input type="radio" name="Wed 11am" value="Maybe">Maybe
-  <input type="radio" name="Wed 11am" value="No" checked>No<br><br>
-  
-  Thursday 10 am - 11 am<br>
-  <input type="radio" name="Thu 10am" value="Yes">Yes
-  <input type="radio" name="Thu 10am" value="Maybe">Maybe
-  <input type="radio" name="Thu 10am" value="No" checked>No<br><br>
-  
-  Thursday 11 am - 12 pm<br>
-  <input type="radio" name="Thu 11am" value="Yes">Yes
-  <input type="radio" name="Thu 11am" value="Maybe">Maybe
-  <input type="radio" name="Thu 11am" value="No" checked>No<br><br>
-  
-  Friday 10 am - 11 am<br>
-  <input type="radio" name="Fri 10am" value="Yes">Yes
-  <input type="radio" name="Fri 10am" value="Maybe">Maybe
-  <input type="radio" name="Fri 10am" value="No" checked>No<br><br>
-  
-  Friday 11 am - 12 pm<br>
-  <input type="radio" name="Fri 11am" value="Yes">Yes
-  <input type="radio" name="Fri 11am" value="Maybe">Maybe
-  <input type="radio" name="Fri 11am" value="No" checked>No<br><br>
-  
-  <label>
-    Your name:
-    <input type="name" name="name" required>
-  </label>
-  <button type="submit">Send Response</button></br>
-</form>
-~~~
+### 03 Oct: Silvia Nagy
+Asymptotics for subleading soft theorems at all orders
 
-
+### 26 Sep: Dogan Akpinar
+Spinning Black Hole Scattering at O(G^3) Using Fixed Spin Theories
 
 # Past Meetings
 - [Spring 2024](#spring_2024)
