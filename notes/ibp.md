@@ -1,5 +1,8 @@
 # Scattering Amplitudes Lecture on 07 Nov: Integration-by-Parts Reduction
 
+## Toy example: IBP for tadpole integrals
+To be completed... Compare with analytic formula.
+
 ## Basic setup for bubble example
 Let's look at the bubble family of integrals,
 @@img-tiny ![one-loop bubble](/bubble.svg) @@
