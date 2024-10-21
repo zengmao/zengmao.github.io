@@ -5,7 +5,7 @@ To be completed... Compare with analytic formula.
 
 ## Basic setup for bubble example
 Let's look at the bubble family of integrals,
-@@img-tiny ![one-loop bubble](/bubble.svg) @@
+@@img-tiny ![one-loop bubble](/notes/bubble.svg) @@
 \begin{aligned}
 I_{\nu_1, \nu_2} &= \int d^d q \frac{1} {(q^2-m^2)^{\nu_1} [(p+q)^2-m^2]^{\nu_2}} \\
 &= \int d^d q \frac 1 {\rho_1^{\nu_1} \, \rho_2^{\nu_2}} \, ,
