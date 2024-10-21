@@ -8,6 +8,15 @@ This is a weekly series of informal seminars at the [Higgs Centre for Theoretica
 
 ## Autumn 2024
 
+### 24 Oct: Xabi Feal
+Efficient high-order computation of cusp anomalous dimensions in the string-inspired worldline formalism
+
+### 17 Oct: Yuyu Mo
+Mellin-moment amplitude and onshell bootstrap in AdS
+
+### 10 Oct: Asaad Elkhidir
+Supertranslations from Scattering Amplitudes
+
 ### 03 Oct: Silvia Nagy
 Asymptotics for subleading soft theorems at all orders
 
