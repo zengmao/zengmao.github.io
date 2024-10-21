@@ -22,8 +22,8 @@ We can write down the IBP identity
 \begin{align}
 0 &= \int d^d q \frac{\partial}{\partial q^\mu} {\frac{q^\mu}{\rho_1^{\nu_1} \rho_2^{\nu_2}}} \\
 &= \int d^d q \left[ \frac d {\rho_1^{\nu_1} \rho_2^{\nu_2}}
- - \frac a {\rho_1^{\nu_1+1} \rho_2^{\nu_2}} \, q^\mu \frac{\partial}{\partial q^\mu} \rho_1
- - \frac b {\rho_1^{\nu_1} \rho_2^{\nu_2+1}} \, q^\mu \frac{\partial}{\partial q^\mu} \rho_2
+ - \frac {\nu_1} {\rho_1^{\nu_1+1} \rho_2^{\nu_2}} \, q^\mu \frac{\partial}{\partial q^\mu} \rho_1
+ - \frac {\nu_2} {\rho_1^{\nu_1} \rho_2^{\nu_2+1}} \, q^\mu \frac{\partial}{\partial q^\mu} \rho_2
 \right]
 \end{align}
 Using Eqs. (2) and (3), we have
