@@ -64,7 +64,7 @@ The IBP identity in the 2nd line of Eq. (4) evaluates to
 \end{align}
 
 ## Simple application to differential equations
-Substituting $\nu_1=1, \nu_2=0$ in Eq. (6) gives
+Substituting $\nu_1=1, \nu_2=0$ in Eq. (12) gives
 \begin{equation}
 0 = (d-2) I_{1,0} - 2m^2 I_{2,0} \implies I_{2,0} = \frac{1}{2m^2} (d-2) I_{1,0}
 \end{equation}
