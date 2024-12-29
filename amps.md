@@ -8,6 +8,21 @@ This is a weekly series of informal seminars at the [Higgs Centre for Theoretica
 
 ## Autumn 2024
 
+### 05 Dec: Mrigankamauli Chakraborty
+The Asymptotic Hopf Algebra of Feynman Integrals
+
+### 28 Nov: Giacomo Brunello
+Analytic Waveforms in General Relativity from Scattering Amplitudes
+
+### 14 Nov: Chandramouli Chowdhury
+Simplicity of In-In correlators
+
+### 07 Nov: Lucile Cangemy
+Binary Kerr black-hole scattering at 2PM from quantum higher-spin Compton
+
+### 31 Oct: Yue-Zhou Li
+Gravity and a universal cutoff for field theory
+
 ### 24 Oct: Xabi Feal
 Efficient high-order computation of cusp anomalous dimensions in the string-inspired worldline formalism
 
