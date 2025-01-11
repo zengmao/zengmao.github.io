@@ -96,9 +96,9 @@ The calculation steps are exactly analogous to those leading to Eq. (12), and we
 0 = (\nu_2-\nu_1) I_{\nu_1, \nu_2} + \nu_1 I_{\nu_1+1, \nu_2-1} - \nu_2 I_{\nu_1-1, \nu_2+1} + \nu_1 p^2 I_{\nu_1+1, \nu_2} - \nu_2 p^2 I_{\nu_1, \nu_2+1} \, .
 \end{equation}
 
-Eq. (12) and Eq. (17) involve a total of 5 integrals, for every choice of integers $(\nu_1, \nu_2)$. The integrals involved in the two linear relations are visualized on the $(\nu_1, \nu_2)$ lattice,
+Eq. (12) and Eq. (16) involve a total of 5 integrals, for every choice of integers $(\nu_1, \nu_2)$. The integrals involved in the two linear relations are visualized on the $(\nu_1, \nu_2)$ lattice,
 @@img ![bubble_ibp_grid](/notes/bubble_ibp_grid.svg) @@
-For the sake of solving the system, we define an auxiliary quantity, the *complexity* of an integral $I_{\nu_1, \nu_2}$, to be $\nu_1+\nu_2$. We want to solve more "complex" integrals in terms of less complex ones. Two of the integrals have the same complexity. Fortunately, we have two IBP identities Eq. (12) and (17) which allow us to solve both integrals in terms of the three less complex integrals - the $2\times 2$ linear system is non-degenerate if $\nu_1 \geq 1, \nu_2 \geq 1$. The results are called *reduction rules*,
+For the sake of solving the system, we define an auxiliary quantity, the *complexity* of an integral $I_{\nu_1, \nu_2}$, to be $\nu_1+\nu_2$. We want to solve more "complex" integrals in terms of less complex ones. Two of the integrals have the same complexity. Fortunately, we have two IBP identities Eq. (12) and (16) which allow us to solve both integrals in terms of the three less complex integrals - the $2\times 2$ linear system is non-degenerate if $\nu_1 \geq 1, \nu_2 \geq 1$. The results are called *reduction rules*,
 \begin{align}
 I_{\nu_1 + 1, \nu_2} = \frac{1}{p^2 (4m^2-p^2)}
 & \bigg[
