@@ -14,7 +14,7 @@ I am a Royal Society University Research Fellow at the [Higgs Centre for Theoret
 
 My research uses quantum field theory to make precise predictions for fundamental physics experiments. In the last few years, my collaborators and I developed a formalism for computing classical general relativity obesrvables, relevant for LIGO / VIRGO observations, by taking classical limits of scattering amplitudes in quantum field theory. I am also involved in precise calculations relevant for the Large Hadron Collider, in perturbative QCD and sometimes in simplifying supersymmetric theories.
 
-My research brings together a wide array of theoretical developments in high energy physics, including modern methods for scattering amplitudes, state-of-the-art loop integration techniques, and effective field theories.
+My research brings together a wide array of theoretical developments in high energy physics, including modern methods for scattering amplitudes, state-of-the-art loop integration techniques, effective field theories, and machine learning for symbolic computations. I co-develop the high-performance Feynman Integrals computation software, [FIRE](https://gitlab.srcc.msu.ru/feynmanintegrals/fire).
 
 Full CV: [PDF](/CV.pdf)
 
@@ -26,4 +26,4 @@ I co-organized the [Higgs Centre Workshop on Gravitational Self-Force and Scatte
 
 I co-organized the 2024 MIAPbP workshop, [EFT and Multi-loop Methods for Advancing Precision in Collider and Gravitational Wave Physics](https://www.munich-iapbp.de/eft-multi-loop-methods) to be held in October 2024.
 
-I'm co-organizing the weekly [Higgs Centre Amplitudes Meetings](/amps/).
+I'm co-organizing the weekly Higgs Centre Amplitudes Meetings, a series of informal seminars on scattering amplitudes and related topics.
