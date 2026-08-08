@@ -5,7 +5,7 @@ title = "Mao Zeng, University of Edinburgh"
 # Mao Zeng - Theoretical Physics, University of Edinburgh
 
 @@img-tiny
-![Portrait](/assets/portrait-2024.jpg)
+![Portrait](/assets/portrait.jpg)
 @@
 
 Contact: mao.zeng <A.T.> ed.ac.uk
