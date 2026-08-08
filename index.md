@@ -16,7 +16,7 @@ My research uses quantum field theory to make precise predictions for fundamenta
 
 My research brings together a wide array of theoretical developments in high energy physics, including modern methods for scattering amplitudes, state-of-the-art loop integration techniques, effective field theories, and machine learning for symbolic computations. I co-develop the high-performance Feynman Integrals computation software, [FIRE](https://gitlab.srcc.msu.ru/feynmanintegrals/fire).
 
-Full CV: [PDF](/CV.pdf)
+Full CV: [PDF](/CV-Aug2026.pdf)
 
 Links to my publications: [INSPIRE](https://inspirehep.net/authors/1310565?ui-citation-summary=true) | [arXiv](https://arxiv.org/a/zeng_m_1)
 
